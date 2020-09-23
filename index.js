@@ -1,3 +1,4 @@
+// Made By Prathamesh Thorat
 window.onload = () => {
 var fr = document.getElementById("fr");
 var find = document.getElementById("find");
